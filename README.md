@@ -26,8 +26,10 @@ We have different options when it comes to storing and managing data,  which are
 - XML (only for MAC OS X)
 - Binary
 - Plists
-- Sqlite<br/><br/>
-<b>Core Data vs  SQLite</b>
-![Alt text](http://s13.postimg.org/jfbkrdofb/Screen_Shot_2014_12_25_at_5_48_48_pm.png) <br/>
+- Sqlite<br/><br/><br/>
+<b>Core Data vs  SQLite</b><br/>
+![Alt text](http://s13.postimg.org/jfbkrdofb/Screen_Shot_2014_12_25_at_5_48_48_pm.png) <br/><br/>
 <b>Core Data and MVC</b><br/><br/>
-![Alt text](http://s23.postimg.org/s00kw6v3f/Screen_Shot_2014_12_25_at_5_55_42_pm.png) <br/>
+![Alt text](http://s23.postimg.org/s00kw6v3f/Screen_Shot_2014_12_25_at_5_55_42_pm.png) <br/><br/>
+<b>Core Data Stack</b><br/>
+
