@@ -91,5 +91,5 @@ There can be different types of relationships.
 <b>NSFetchRequest</b><br/>
 ![Alt text](http://s3.postimg.org/eub37fo83/image.png)<br/<br/>
 <b>NSFetchedResultsController</b><br/>
-![Alt text](http://s12.postimg.org/60nqpb5rg/image.jpg)
+![Alt text](http://s12.postimg.org/6df4vho17/image.png)
 
