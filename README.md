@@ -32,4 +32,36 @@ We have different options when it comes to storing and managing data,  which are
 <b>Core Data and MVC</b><br/><br/>
 ![Alt text](http://s23.postimg.org/s00kw6v3f/Screen_Shot_2014_12_25_at_5_55_42_pm.png) <br/><br/>
 <b>Core Data Stack</b><br/>
+Heart of Core Data
+- NSmanagedObjectModel
+- NSPersistentStoreCoordinator
+- NSManagedObjectContext
+<br/>
+![Alt text](http://s3.postimg.org/dtl3t2b8j/Screen_Shot_2014_12_25_at_6_58_21_pm.png)<br/><br/>
+<b>NSManagedObjectModel</b>
+<br/>
+ObjectModel is the object representation of model data resource file.
+It contains
+- Entities
+- Attributes
+- Relationships
+- Fetch requests
+- Schema for Models<br/>
+There are certain types of Attributes, which are
+ - String
+ - Date
+ - Binary Data
+ - Boolean
+ - Integer
+ - Decimal
+ - Floats
+ - Double
+ - Transformable
+ <br/>
 
+There can be different types of relationships.
+- NSSet not NSarray
+- One to One
+- One to Many
+- Many to Many 
+- Delete Rules
