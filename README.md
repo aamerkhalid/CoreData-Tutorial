@@ -83,3 +83,11 @@ There can be different types of relationships.
 <br/>
 <br/>
 ![Alt text](http://s24.postimg.org/7x6v54239/image.png)
+<br/><br/>
+<b>Saving an Object</b><br/>
+![Alt text](http://s24.postimg.org/z60bk0ql1/image.png)
+<br/>
+<b>NSFetchRequest</b><br/>
+![Alt text](http://s3.postimg.org/eub37fo83/image.png)
+
+
