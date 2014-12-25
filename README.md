@@ -88,6 +88,7 @@ There can be different types of relationships.
 ![Alt text](http://s24.postimg.org/z60bk0ql1/image.png)
 <br/>
 <b>NSFetchRequest</b><br/>
-![Alt text](http://s3.postimg.org/eub37fo83/image.png)
-
+![Alt text](http://s3.postimg.org/eub37fo83/image.png)<br/<br/>
+<b>NSFetchedResultsController</b><br/>
+![Alt text](http://s12.postimg.org/60nqpb5rg/image.jpg)
 
