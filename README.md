@@ -77,4 +77,9 @@ There can be different types of relationships.
 <b>NSManagedObjectContext</b>
 ![Alt text](http://s24.postimg.org/dg07uukd1/image.png)
 <br/>
-
+<br/>
+<b>Core Data Model</b><br/>
+![Alt text](http://s11.postimg.org/rpc0rzzbn/image.png)
+<br/>
+<br/>
+![Alt text](http://s24.postimg.org/7x6v54239/image.png)
