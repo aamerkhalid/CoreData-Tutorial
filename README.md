@@ -46,7 +46,8 @@ It contains
 - Attributes
 - Relationships
 - Fetch requests
-- Schema for Models<br/>
+- Schema for Models
+<br/>
 There are certain types of Attributes, which are
  - String
  - Date
