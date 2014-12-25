@@ -65,3 +65,16 @@ There can be different types of relationships.
 - One to Many
 - Many to Many 
 - Delete Rules
+<br/>
+![Alt text](http://s12.postimg.org/5qtjrtect/asd.png)
+<br/><br/>
+<b>NSPersistentStoreCoordinator</b>
+- Coordinates access to one or more persistent store
+- Depends on Managed Object Model
+- Set store options
+![Alt text](http://s14.postimg.org/iha026q29/image.png)
+<br/>
+<b>NSManagedObjectContext</b>
+![Alt text](http://s24.postimg.org/dg07uukd1/image.png)
+<br/>
+
